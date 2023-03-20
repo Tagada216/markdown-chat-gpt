@@ -4,7 +4,7 @@
 A simple extension to use chatGpt 3.5-turbo on your obsidian file.
 <p>
   <img align="right" style="width: 27vw" src="https://github.com/Tagada216/obsidian-chat-gpt/blob/main/img/chatgpt_ob.PNG?width=736&height=676">
-  <img align="right" style="width: 27vw" src="https://github.com/Tagada216/obsidian-chat-gpt/blob/main/img/chatgpt_ob2.PNG?width=736&height=676">
+  <img align="right" style="width: 27vw" src="https://github.com/Tagada216/obsidian-chat-gpt/blob/main/img/chatgpt_obblur.PNG?width=736&height=676">
 </p>
 
 
