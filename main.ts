@@ -49,7 +49,7 @@ export default class GPT3Plugin extends Plugin {
           const view = this.app.workspace.getActiveViewOfType(MarkdownView);
           if (view) {
             const cursor = view.editor.getCursor();
-            view.editor.replaceRange(`ChatGPT :  ${response})`, cursor);
+            view.editor.replaceRange(`ChatGPT :  ${response}`, cursor);
             view.editor.replaceRange(`<br>`, cursor);
             view.editor.replaceRange(`Vous :  ${result}`, cursor);
           }
