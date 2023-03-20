@@ -1,5 +1,5 @@
 
-# Obsidian chat GPT
+# Markdown chat GPT for Obsidian
 
 A simple extension to use chatGpt 3.5-turbo on your obsidian file.
 <p>
