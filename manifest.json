@@ -1,9 +1,9 @@
 {
   "id": "markdown-gpt-chat",
-  "name": "Obsidian GPT Chat",
+  "name": "Markdown GPT Chat for obsidian",
   "version": "0.2.0",
   "minAppVersion": "0.9.0",
-  "description": "Utilisez ChatGPT avec une commande dans Obsidian",
+  "description": "Use ChatGPT with a command in Obsidian",
   "author": "Nicolas - Tagada216",
   "authorUrl": "https://github.com/Tagada216",
   "isDesktopOnly": false
